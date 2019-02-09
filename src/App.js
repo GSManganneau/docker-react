@@ -18,6 +18,7 @@ class App extends Component {
             rel="noopener noreferrer"
           >
             Learn React
+	    Biatch
           </a>
         </header>
       </div>
